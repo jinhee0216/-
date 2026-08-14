@@ -2,13 +2,14 @@
   "version": "3.29.0",
   "displayVersion": "V329",
   "installer": "Leaders_Smart_Workspace_V329_Setup_3.29.0.exe",
-  "sha256": "1d6eea1587a042a1f0122053049b9193ce6ae5d4592c93127647c3c32bfddf1a",
-  "size": 9217024,
+  "sha256": "e5188d4e6fd5d80d412d57a2f1e920d8d79c9ad6266a7f6ca6f5b5b68a5c41bb",
+  "size": 9217536,
   "mandatory": false,
   "minimumSupportedVersion": "2.91.0",
   "baselineDisplayVersion": "V291",
   "notes": [
     "JINHEE-HOME과 JINHEE 공통 인터넷 업데이트 기준 버전입니다.",
+    "V329 수정본은 PowerShell 5.1 호환 업데이트 실행기와 올바른 공용 업데이트 경로를 사용합니다.",
     "V329 이후 인터넷 업데이트는 검증된 버전별 패치 체인으로 적용합니다."
   ],
   "patches": []
