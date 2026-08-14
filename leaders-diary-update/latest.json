@@ -1,1 +1,15 @@
-{"version":"3.29.0","displayVersion":"V329","patches":[]}
+{
+  "version": "3.29.0",
+  "displayVersion": "V329",
+  "installer": "Leaders_Smart_Workspace_V329_Setup_3.29.0.exe",
+  "sha256": "1d6eea1587a042a1f0122053049b9193ce6ae5d4592c93127647c3c32bfddf1a",
+  "size": 9217024,
+  "mandatory": false,
+  "minimumSupportedVersion": "2.91.0",
+  "baselineDisplayVersion": "V291",
+  "notes": [
+    "JINHEE-HOME과 JINHEE 공통 인터넷 업데이트 기준 버전입니다.",
+    "V329 이후 인터넷 업데이트는 검증된 버전별 패치 체인으로 적용합니다."
+  ],
+  "patches": []
+}
