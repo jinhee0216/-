@@ -1,16 +1,16 @@
 {
-  "version": "3.35.0",
-  "displayVersion": "V335",
-  "installer": "Leaders_Smart_Workspace_V335_Setup_3.35.0.exe",
-  "sha256": "bb2046bd487340245caeb35f3312d82271b39e3b5d5cb6c62aa6bb75a1b787c3",
-  "size": 9258496,
+  "version": "3.36.0",
+  "displayVersion": "V336",
+  "installer": "Leaders_Smart_Workspace_V336_Setup_3.36.0.exe",
+  "sha256": "772577a4517edd950e974579f0dc3acfb7164afe66ec96094a8c15c22d7fab73",
+  "size": 9257472,
   "mandatory": false,
   "minimumSupportedVersion": "2.91.0",
   "baselineDisplayVersion": "V291",
   "notes": [
-    "재대출 적용매출을 기존 매출과 현재 매출 2개 표로 분리했습니다.",
-    "현재 매출을 업체별 과거 기록으로 저장하고 다음 재대출 때 기존 매출로 바로 불러올 수 있습니다.",
-    "업체별 재대출 매출 기록을 로그인 계정 기준 클라우드 상태로 동기화합니다."
+    "재대출 업체별 저장값을 가장 최근 매출 1건만 유지하도록 단순화했습니다.",
+    "업체명·대표자명·사업자번호 검색 후 최신 저장 매출을 기존 매출표에 자동으로 불러옵니다.",
+    "표 아래 매출경로 추가 버튼을 제거하고 매출경로 헤더의 + 버튼으로 행을 추가합니다."
   ],
   "patches": []
 }
