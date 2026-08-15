@@ -2,14 +2,14 @@
   "version": "3.36.0",
   "displayVersion": "V336",
   "installer": "Leaders_Smart_Workspace_V336_Setup_3.36.0.exe",
-  "sha256": "772577a4517edd950e974579f0dc3acfb7164afe66ec96094a8c15c22d7fab73",
-  "size": 9257472,
+  "sha256": "2f3560614c123463866909385969966005a17e2ccc59de51c890f259edf2699e",
+  "size": 9255936,
   "mandatory": false,
   "minimumSupportedVersion": "2.91.0",
   "baselineDisplayVersion": "V291",
   "notes": [
-    "재대출 업체별 저장값을 가장 최근 매출 1건만 유지하도록 단순화했습니다.",
-    "업체명·대표자명·사업자번호 검색 후 최신 저장 매출을 기존 매출표에 자동으로 불러옵니다.",
+    "재대출 업체별 저장값을 가장 최근 매출 1건만 유지합니다.",
+    "업체명·대표자명·사업자번호 검색에서 업체를 선택하면 최신 저장 매출을 기존 매출표에 자동으로 불러옵니다.",
     "표 아래 매출경로 추가 버튼을 제거하고 매출경로 헤더의 + 버튼으로 행을 추가합니다."
   ],
   "patches": []
