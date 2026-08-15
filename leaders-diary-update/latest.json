@@ -1,16 +1,15 @@
 {
-  "version": "3.43.0",
-  "displayVersion": "V343",
-  "installer": "Leaders_Smart_Workspace_V343_Setup_3.43.0.exe",
-  "sha256": "d8484be40cb1b1ef85671630c5e245a59acad17827bafcfa7a0595965bbc3627",
-  "size": 9280512,
+  "version": "3.44.0",
+  "displayVersion": "V344",
+  "installer": "Leaders_Smart_Workspace_V344_Setup_3.44.0.exe",
+  "sha256": "b2979b6ae8b72046661a1c8754c34d003302a1f59bb0b3bd04e4f708c674ac2d",
+  "size": 9282048,
   "mandatory": false,
   "minimumSupportedVersion": "2.91.0",
   "baselineDisplayVersion": "V291",
   "notes": [
-    "배민·요기요 카드 전체에서 엑셀 파일 드래그앤드롭이 실제 업로드로 연결되도록 캡처 단계 이벤트로 보강했습니다.",
-    "문자양식·사진설명·자료 카드의 점 3개 메뉴가 이웃 카드 아래에 가려지거나 잘리지 않도록 열린 카드를 최상위에 표시합니다.",
-    "자료 카드 관리 메뉴를 완전 불투명 흰색으로 고정해 뒤 카드가 비치지 않도록 수정했습니다."
+    "사진 PDF 화면의 PC 내부 로컬 처리 영역 안에 + 사진 선택 버튼을 배치했습니다.",
+    "사진 선택·드래그·정렬·PDF 저장 기능은 그대로 유지합니다."
   ],
   "patches": []
 }
