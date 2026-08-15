@@ -1,15 +1,16 @@
 {
-  "version": "3.42.0",
-  "displayVersion": "V342",
-  "installer": "Leaders_Smart_Workspace_V342_Setup_3.42.0.exe",
-  "sha256": "f5fad863c8fe6ff16aa28db5f354a5365fae2cf530a28e34cd89c519405e835b",
-  "size": 9275392,
+  "version": "3.43.0",
+  "displayVersion": "V343",
+  "installer": "Leaders_Smart_Workspace_V343_Setup_3.43.0.exe",
+  "sha256": "d8484be40cb1b1ef85671630c5e245a59acad17827bafcfa7a0595965bbc3627",
+  "size": 9280512,
   "mandatory": false,
   "minimumSupportedVersion": "2.91.0",
   "baselineDisplayVersion": "V291",
   "notes": [
-    "계산기 저장 아이콘은 fi fi-tr-disk 클래스를 유지하면서 얇은 라인 아이콘으로 표시합니다.",
-    "계산기 휴지통 아이콘은 fi fi-ts-trash 클래스를 유지하면서 얇은 라인 아이콘으로 표시합니다."
+    "배민·요기요 카드 전체에서 엑셀 파일 드래그앤드롭이 실제 업로드로 연결되도록 캡처 단계 이벤트로 보강했습니다.",
+    "문자양식·사진설명·자료 카드의 점 3개 메뉴가 이웃 카드 아래에 가려지거나 잘리지 않도록 열린 카드를 최상위에 표시합니다.",
+    "자료 카드 관리 메뉴를 완전 불투명 흰색으로 고정해 뒤 카드가 비치지 않도록 수정했습니다."
   ],
   "patches": []
 }
