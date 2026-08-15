@@ -2,15 +2,15 @@
   "version": "3.38.0",
   "displayVersion": "V338",
   "installer": "Leaders_Smart_Workspace_V338_Setup_3.38.0.exe",
-  "sha256": "48447b0dff4c6321ab1f93e8afa1b48afd00dfe5e2739963daa5217d4c3e4979",
-  "size": 9268224,
+  "sha256": "6addf62e20fa396951d465e77f1f234c109161804da97d50eda1a7ef94ea9dd1",
+  "size": 9266688,
   "mandatory": false,
   "minimumSupportedVersion": "2.91.0",
   "baselineDisplayVersion": "V291",
   "notes": [
     "재대출 업체정보를 업체·대표자·담당 한 줄 입력으로 정리했습니다.",
-    "현재 매출 저장 버튼에 fi fi-rr-disk 디스크 아이콘을 로컬 SVG로 연결하고 휴지통 아이콘을 더 크게 표시합니다.",
-    "계산기 탭과 본문 테두리가 현재 테마의 같은 선과 배경을 사용해 자연스럽게 이어지도록 보정했습니다."
+    "현재 매출 저장 버튼에 fi fi-rr-disk 디스크 아이콘을 연결하고 휴지통 아이콘을 더 크게 표시합니다.",
+    "계산기 탭과 본문 테두리가 현재 테마 색상으로 자연스럽게 이어지도록 보정했습니다."
   ],
   "patches": []
 }
