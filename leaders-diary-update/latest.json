@@ -1,16 +1,16 @@
 {
-  "version": "3.33.0",
-  "displayVersion": "V333",
-  "installer": "Leaders_Smart_Workspace_V333_Setup_3.33.0.exe",
-  "sha256": "05952471e939d9e619f5bcca6f2b74b7198307435a5bbac2cef7d737d964c130",
-  "size": 9230336,
+  "version": "3.35.0",
+  "displayVersion": "V335",
+  "installer": "Leaders_Smart_Workspace_V335_Setup_3.35.0.exe",
+  "sha256": "bb2046bd487340245caeb35f3312d82271b39e3b5d5cb6c62aa6bb75a1b787c3",
+  "size": 9258496,
   "mandatory": false,
   "minimumSupportedVersion": "2.91.0",
   "baselineDisplayVersion": "V291",
   "notes": [
-    "적용매출 월 헤더 1·2·3… 입력칸의 흰색 박스를 제거하고 헤더 배경과 완전히 이어지도록 고정했습니다.",
-    "월 개수를 1~6개월로 바꾸거나 월칸에 포커스해도 흰 배경·테두리·그림자가 다시 나타나지 않도록 보강했습니다.",
-    "V332의 지난 할일 분리, 대부사 게시물 필터, 본진행 안내 동기화, 적용매출 최종금액 확대 기능을 유지합니다."
+    "재대출 적용매출을 기존 매출과 현재 매출 2개 표로 분리했습니다.",
+    "현재 매출을 업체별 과거 기록으로 저장하고 다음 재대출 때 기존 매출로 바로 불러올 수 있습니다.",
+    "업체별 재대출 매출 기록을 로그인 계정 기준 클라우드 상태로 동기화합니다."
   ],
   "patches": []
 }
