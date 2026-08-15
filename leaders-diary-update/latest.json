@@ -1,16 +1,16 @@
 {
-  "version": "3.36.0",
-  "displayVersion": "V336",
-  "installer": "Leaders_Smart_Workspace_V336_Setup_3.36.0.exe",
-  "sha256": "2f3560614c123463866909385969966005a17e2ccc59de51c890f259edf2699e",
-  "size": 9255936,
+  "version": "3.37.0",
+  "displayVersion": "V337",
+  "installer": "Leaders_Smart_Workspace_V337_Setup_3.37.0.exe",
+  "sha256": "c1370d3627e38b9c809daf78cc00a0328d3d118f1a0d0008b556833e4bc6ba3b",
+  "size": 9261568,
   "mandatory": false,
   "minimumSupportedVersion": "2.91.0",
   "baselineDisplayVersion": "V291",
   "notes": [
-    "재대출 업체별 저장값을 가장 최근 매출 1건만 유지합니다.",
-    "업체명·대표자명·사업자번호 검색에서 업체를 선택하면 최신 저장 매출을 기존 매출표에 자동으로 불러옵니다.",
-    "표 아래 매출경로 추가 버튼을 제거하고 매출경로 헤더의 + 버튼으로 행을 추가합니다."
+    "내 할일과 지난 할일 탭 전환이 되돌아가던 이벤트 버블링 문제를 수정하고 탭과 본문을 연결했습니다.",
+    "재대출 적용매출의 1·2·3 말머리를 제거하고 개월수 옆에 초기화 버튼을 배치했습니다.",
+    "사업자번호 입력란을 제거하고 업체검색을 업체추가 옆에 배치했으며 + 정렬과 휴지통 크기를 보정했습니다."
   ],
   "patches": []
 }
