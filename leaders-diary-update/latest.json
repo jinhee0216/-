@@ -1,16 +1,16 @@
 {
-  "version": "3.40.0",
-  "displayVersion": "V340",
-  "installer": "Leaders_Smart_Workspace_V340_Setup_3.40.0.exe",
-  "sha256": "75ee0fb301675005f8d53572859f672be225bd59496dc699267ddb4842eb2d41",
-  "size": 9271296,
+  "version": "3.41.0",
+  "displayVersion": "V341",
+  "installer": "Leaders_Smart_Workspace_V341_Setup_3.41.0.exe",
+  "sha256": "897512d70fe350e7810dcbdc2590fb6d56ba20983ab4c773ad43a11bc4cf350c",
+  "size": 9272320,
   "mandatory": false,
   "minimumSupportedVersion": "2.91.0",
   "baselineDisplayVersion": "V291",
   "notes": [
-    "배달매출의 금액 전체복사를 적용매출 첫 월 칸에 붙여넣으면 같은 행의 월 칸으로 순서대로 자동 분배합니다.",
-    "탭·줄바꿈으로 구분된 여러 금액이 한 숫자로 이어붙어 비정상적으로 커지던 붙여넣기 오류를 수정했습니다.",
-    "단일 금액 붙여넣기도 쉼표·원 표기·공백을 안전하게 정리해 정상 숫자로 입력합니다."
+    "계산기 화면의 업체정보·월별매출 입력 앞 1·2 단계 번호 헤더를 제거했습니다.",
+    "계산기 탭 순서를 적용매출 → 재대출 적용매출 → 배달매출 순으로 변경했습니다.",
+    "배민·요기요 엑셀 업로드 영역에서 파일 선택과 드래그앤드롭을 모두 지원합니다."
   ],
   "patches": []
 }
