@@ -1,16 +1,16 @@
 {
-  "version": "3.38.0",
-  "displayVersion": "V338",
-  "installer": "Leaders_Smart_Workspace_V338_Setup_3.38.0.exe",
-  "sha256": "7d6f5a7e5920b8cc7c15591b11cb7540b2ed558e63c167f6196bfbb491a3225e",
-  "size": 9265664,
+  "version": "3.39.0",
+  "displayVersion": "V339",
+  "installer": "Leaders_Smart_Workspace_V339_Setup_3.39.0.exe",
+  "sha256": "8f7dff08005ee79c2ec600d246b320082d7628b4cfa69f17b6ea77dbd296293f",
+  "size": 9268736,
   "mandatory": false,
   "minimumSupportedVersion": "2.91.0",
   "baselineDisplayVersion": "V291",
   "notes": [
-    "재대출 업체정보를 업체·대표자·담당 한 줄 입력으로 정리했습니다.",
-    "현재 매출 저장 버튼에 fi fi-rr-disk 디스크 아이콘을 연결하고 휴지통 아이콘을 더 크게 표시합니다.",
-    "계산기 탭과 본문 테두리가 현재 테마 색상으로 자연스럽게 이어지도록 보정했습니다."
+    "월 헤더는 굵게 유지하고 매출 입력값·합계·MAX·MIN·적용매출 숫자는 한 단계 가볍게 표시합니다.",
+    "저장 아이콘을 fi fi-tr-disk, 휴지통 아이콘을 fi fi-ts-trash로 변경했습니다.",
+    "재대출 기존·현재 매출표의 합계줄에서 MAX+MIN은 적용매출액 라벨, 적용매출+휴지통은 최종 금액 영역으로 병합했습니다."
   ],
   "patches": []
 }
